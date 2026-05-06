@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="left">
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Keegz-dz?tab=followers">
+    <img
+      alt="followers"
+      title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/Keegz-dz?color=%23E05D44&labelColor=CE4630&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white"
+    />
+  </a>
 
-<!--
-**Keegz-dz/Keegz-dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Total Stars -->
+  <a href="https://github.com/Keegz-dz?tab=repositories&sort=stargazers">
+    <img
+      alt="total stars"
+      title="Total stars on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/Keegz-dz?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=STARS"
+    />
+  </a>
 
-Here are some ideas to get you started:
+  <!-- Total Forks -->
+  <a href="https://github.com/Keegz-dz?tab=repositories">
+    <img
+      alt="total forks"
+      title="Total forks on GitHub"
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=repo-forked&label=FORKS&color=236ad3&labelColor=1155ba&style=for-the-badge&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKeegz-dz"
+    />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Public Repositories -->
+  <a href="https://github.com/Keegz-dz?tab=repositories">
+    <img
+      alt="public repositories"
+      title="Public repositories"
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=repo&label=PUBLIC%20REPOS&color=55960c&labelColor=488207&style=for-the-badge&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKeegz-dz"
+    />
+  </a>
+</p>
