@@ -1,4 +1,16 @@
-<p align="left">
+<div align="center">
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&height=80&lines=%24+whoami;Master's+Student+in+Artificial+Intelligence;%24+run+engineer.py;Building+scalable+ML+systems...;%24+train_model+--epochs+100;Patience+required.;%24+ssh+future%40ai-engineering;Connection+established."
+      alt="Typing SVG"
+    />
+  </a>
+
+  <br/>
+  <br/>
+
   <!-- GitHub Followers -->
   <a href="https://github.com/Keegz-dz?tab=followers">
     <img
@@ -34,4 +46,5 @@
       src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=repo&label=PUBLIC%20REPOS&color=55960c&labelColor=488207&style=for-the-badge&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKeegz-dz"
     />
   </a>
-</p>
+
+</div>
