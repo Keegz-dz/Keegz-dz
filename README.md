@@ -86,4 +86,42 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
+  <br />
+  <br />
+  <!-- Connect Animation -->
+ 
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=90&lines=%24+establish_connection;%24+ping+linkedin.com;%24+ssh+research%40ml-lab.ai;%24+mail+keegan%40ai.engineer;%24+open+https%3A%2F%2Fportfolio.dev"
+      alt="Connect Animation"
+    />
+  </a>
+
+<br />
+
+<p align="center">
+  I am open to Machine Learning Engineer roles, research collaborations,
+  and conversations about applied AI problems.
+  <br />
+  Email is the fastest channel.
+</p>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/keegan-dsouza-4019162b9/">
+    linkedin
+  </a>
+  ·
+  
+  <a href="mailto:keegz29.dz@gmail.com">
+    email
+  </a>
+  ·
+  
+  <a href="https://YOUR-PORTFOLIO.dev">
+    portfolio
+  </a>
+
+</p>
+
 </div>
