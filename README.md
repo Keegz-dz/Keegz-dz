@@ -8,7 +8,16 @@
     />
   </a>
 
-  <br/>
+  <br />
+
+  <!-- About Banner -->
+  <img
+    src="./assets/elevenlabs.png"
+    alt="About Terminal Banner"
+    width="700"
+  />
+
+  <br />
 
   <!-- GitHub Followers -->
   <a href="https://github.com/Keegz-dz?tab=followers">
