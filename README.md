@@ -9,7 +9,6 @@
   </a>
 
   <br/>
-  <br/>
 
   <!-- GitHub Followers -->
   <a href="https://github.com/Keegz-dz?tab=followers">
