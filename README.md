@@ -106,7 +106,7 @@
 <br />
 
 <p align="center">
-  I am open to Machine Learning Engineer roles, research collaborations,
+  I am open to graduate and entry-level Machine Learning Engineer roles, research collaborations,
   and conversations about applied AI problems.
   <br />
   Email is the fastest channel.
