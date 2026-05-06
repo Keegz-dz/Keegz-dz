@@ -19,7 +19,13 @@
   />
 
   <br />
+
+
+<p align="center">
+  I build machine learning systems with a focus on representation learning, computer vision, and applied deep learning. Currently pursuing a Master of Artificial Intelligence at Monash University after completing a Bachelor of Engineering in Artificial Intelligence and Machine Learning.
   <br />
+  My work centres on taking research-grade techniques and turning them into reproducible, deployable systems.
+</p>
 
   <!-- GitHub Stats Badges -->
   <a href="https://github.com/Keegz-dz?tab=followers">
