@@ -32,7 +32,7 @@
     <img
       alt="followers"
       title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/Keegz-dz?color=%23E05D44&labelColor=CE4630&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white&cacheSeconds=60"
+      src="https://custom-icon-badges.demolab.com/github/followers/Keegz-dz?color=%23E05D44&labelColor=CE4630&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=white&cacheSeconds=30"
     />
   </a>
 
@@ -48,7 +48,7 @@
   <img
     alt="public repositories"
     title="Public repositories"
-    src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=repo&label=PUBLIC%20REPOS&color=55960c&labelColor=488207&style=for-the-badge&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKeegz-dz&cacheSeconds=0"
+    src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=repo&label=PUBLIC%20REPOS&color=55960c&labelColor=488207&style=for-the-badge&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FKeegz-dz&cacheSeconds=30"
   />
 </a>
 
