@@ -114,7 +114,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/keegan-dsouza-4019162b9/">
+  <a href="https://www.linkedin.com/in/keegan-dz/">
     linkedin
   </a>
   ·
